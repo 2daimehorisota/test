@@ -6,6 +6,8 @@
 echo hoge
 echo hoge
 echo hogehoge
+echo tigauPCkara hello
+
 
 
 
